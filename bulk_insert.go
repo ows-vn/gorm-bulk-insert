@@ -7,7 +7,7 @@ import (
 	"strings"
 	"time"
 
-	"github.com/jinzhu/gorm"
+	"github.com/ows-vn/gorm"
 )
 
 // Insert multiple records at once
