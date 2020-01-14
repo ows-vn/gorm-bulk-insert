@@ -1,4 +1,4 @@
-module github.com/t-tiger/gorm-bulk-insert
+module github.com/ows-vn/gorm-bulk-insert
 
 go 1.12
 
